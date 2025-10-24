@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Responsi 1 Mobile (H1D023079)</string>
+    <string name="club_history_text">
+        Southampton Football Club, yang dikenal dengan julukan “The Saints”, didirikan pada 21 November 1885 oleh anggota Gereja St. Mary di Southampton dengan nama awal St. Mary’s Young Men’s Association. Klub ini kemudian beberapa kali berganti nama sebelum akhirnya dikenal sebagai Southampton FC pada tahun 1897. Pada masa awal, Southampton menjadi kekuatan besar di Southern League, menjuarai kompetisi tersebut enam kali antara 1897 dan 1904, serta mencapai final Piala FA pada 1900 dan 1902. Setelah bergabung dengan Football League pada tahun 1920, klub berjuang di divisi dua dan tiga selama beberapa dekade tanpa keberhasilan besar, namun tetap dikenal dengan basis suporter yang setia dan tradisi pembinaan pemain muda.
+        Kesuksesan besar pertama Southampton datang pada tahun 1966 ketika mereka promosi ke divisi utama untuk pertama kalinya di bawah pelatih Ted Bates. Klub ini mencapai puncak kejayaannya pada tahun 1976 dengan menjuarai Piala FA setelah mengalahkan Manchester United 1–0 di Wembley melalui gol Bobby Stokes. Pada awal 1980-an, Southampton juga sempat menjadi kekuatan papan atas Inggris, bahkan finis di posisi kedua First Division musim 1983–84 dengan pemain-pemain bintang seperti Kevin Keegan dan Mick Channon. Memasuki era 1990-an, sosok Matthew Le Tissier menjadi ikon klub berkat gol-gol spektakulernya dan loyalitas luar biasa yang membuatnya menjadi legenda sejati di The Dell.
+        Setelah pindah ke St. Mary’s Stadium pada tahun 2001, performa klub menurun hingga akhirnya terdegradasi dari Premier League pada 2005. Masalah finansial yang berat membuat mereka jatuh ke League One pada 2009. Namun, setelah diambil alih oleh pengusaha asal Swiss Markus Liebherr, Southampton bangkit melalui promosi beruntun pada 2011 dan 2012, kembali ke Premier League di bawah manajer Nigel Adkins. Dalam dekade berikutnya, di bawah asuhan Mauricio Pochettino dan Ronald Koeman, klub kembali tampil kompetitif dan sempat lolos ke Liga Europa dengan gaya permainan menyerang yang menarik. Pemain-pemain seperti Sadio Mané, Virgil van Dijk, dan Adam Lallana menjadi bintang yang mengharumkan nama klub sebelum hijrah ke tim-tim besar.
+        Meski sempat stabil di papan tengah Premier League, performa Southampton menurun pada awal 2020-an hingga akhirnya terdegradasi lagi pada musim 2022–23. Namun, di bawah manajer muda Russell Martin, mereka berhasil bangkit dan promosi kembali ke Premier League pada 2024 melalui babak play-off Championship setelah mengalahkan Leeds United di final. Kini, Southampton FC kembali berjuang untuk mempertahankan eksistensinya di level tertinggi sepak bola Inggris, melanjutkan tradisi panjangnya sebagai klub yang dikenal karena semangat juang, pembinaan pemain muda, dan identitas kuat sebagai “The Saints” dari St. Mary’s.
+    </string>
+    <string name="club_name">Southampton F.C.</string>
+    <string name="club_logo_description">Logo Southampton F.C.</string>
+    <string name="club_history_button">Sejarah Klub</string>
+    <string name="club_history_icon">Ikon sejarah klub</string>
+    <string name="club_history_header_image">Gambar header sejarah klub</string>
+    <string name="head_coach_button">Pelatih Kepala</string>
+    <string name="head_coach_icon">Ikon pelatih kepala</string>
+    <string name="team_squad_button">Skuad Tim</string>
+    <string name="team_squad_icon">Ikon skuad tim</string>
+    <string name="stadium_image_description">Gambar stadion klub</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="club_description_title">Deskripsi Klub</string>
+    <string name="club_description_text">Southampton Football Club adalah klub sepak bola profesional Inggris yang berbasis di Southampton, Hampshire. Dijuluki "The Saints", klub ini terkenal dengan akademi mudanya dan sejarah berkompetisi di level tertinggi sepak bola Inggris.</string>
+</resources>
